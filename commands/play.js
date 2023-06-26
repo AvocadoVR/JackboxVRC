@@ -1,6 +1,9 @@
 const { SlashCommandBuilder, ActionRowBuilder, SelectMenuBuilder, StringSelectMenuBuilder, StringSelectMenuOptionBuilder } = require('discord.js');
+const { launchGame } = require('../util/game');
 const games = require('../jackbox.games.json');
 const fs = require('fs');
+
+// Setup will only show the packs they have.
 
 module.exports = {
     data: new SlashCommandBuilder()
