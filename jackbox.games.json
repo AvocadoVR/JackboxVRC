@@ -1,31 +1,158 @@
 {
     "packs": {
         "one": {
-
+            "ydkj": {
+                "gameName": "You Don't Know Jack"
+            },
+            "fibbagexl": {
+                "gameName": "Fibbage XL"
+            },
+            "drawful": {
+                "gameName": "Drawful"
+            },
+            "wordspud": {
+                "gameName": "Word Spud"
+            },
+            "lieswatter": {
+                "gameName": "Lie Swatter"
+            }
         },
         "two" : {
-
+            "fibbage2": {
+                "gameName": "Fibbage 2"
+            },
+            "earwax": {
+                "gameName": "Earwax"
+            },
+            "bidiots": {
+                "gameName": "Bidiots"
+            },
+            "quiplashxl": {
+                "gameName": "Quiplash XL"
+            },
+            "bombcorp": {
+                "gameName": "Bomb Corp."
+            }
         },
         "three": {
-
+            "quiplash": {
+                "gameName": "Quiplash"
+            },
+            "triviamp": {
+                "gameName": "Trivia Murder Party"
+            },
+            "guesspionage": {
+                "gameName": "Guesspionage"
+            },
+            "teeko": {
+                "gameName": "Tee K.O."
+            },
+            "fakinit": {
+                "gameName": "Fakin' It"
+            }
         },
         "four": {
-
+            "fibbage3": {
+                "gameName": "Fibbage 3"
+            },
+            "survivetheinternet": {
+                "gameName": "Survive The Internet"
+            },
+            "monsterseekingmonster": {
+                "gameName": "Monster Seeking Monster"
+            },
+            "bracketeering": {
+                "gameName": "Bracketeering"
+            },
+            "civicdoodle": {
+                "gameName": "Civic Doodle"
+            }
         },
         "five": {
-
+            "ydkjfs": {
+                "gameName": "You Don't Know Jack: Full Stream"
+            },
+            "splittheroom": {
+                "gameName": "Split The Room"
+            },
+            "madversecity": {
+                "gameName": "Mad Verse City"
+            },
+            "patentlystupid": {
+                "gameName": "Patently Stupid"
+            },
+            "zeepledome": {
+                "gameName": "Zeeple Dome"
+            }
         },
         "six": {
-
+            "triviamp2": {
+                "gameName": "Trivia Murder Party 2" 
+            },
+            "dictionarium": {
+                "gameName": "Dictionarium"
+            },
+            "pushthatbutton": {
+                "gameName": "Push That Button"
+            },
+            "jokeboat": {
+                "gameName": "Joke Boat"
+            },
+            "rolemodels": {
+                "gameName": "Role Models"
+            }
         },
         "seven": {
-
+            "quiplash3": {
+                "gameName": "Quiplash 3"
+            },
+            "thedevildetails": {
+                "gameName": "The Devils and the Details"
+            },
+            "champdup": {
+                "gameName": "Champ’d Up"
+            },
+            "talkingpoints": {
+                "gameName": "Talking Points"
+            },
+            "blatherround": {
+                "gameName": "Blather 'Round"
+            }
         },
         "eight": {
-
+            "drawfulanimate": {
+                "gameName": "Drawful Animate"
+            },
+            "twoep": {
+                "gameName": "The Wheel of Enormous Proportions"
+            },
+            "jobjob": {
+                "gameName": "Job Job"
+            },
+            "thepollmine": {
+                "gameName": "The Poll Mine"
+            },
+            "weapondrawn": {
+                "gameName": "Weapon Drawn"
+            }
         },
         "nine": {
-            
+            "fibbage4": {
+                "gameName": "Fibbage 4"
+            },
+            "quixort": {
+                "gameName": "Quixort"
+            },
+            "junktopia": {
+                "gameName": "Junktopia"
+            },
+            "nonsensory": {
+                "gameName": "Nonsensory"
+            },
+            "roomerang": {
+                "gameName": "Roomerang"
+            }
         }
     }
 }
+
